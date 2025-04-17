@@ -1,0 +1,26 @@
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote {
+  width: 60%;
+  text-align: center;
+  background-color: rgb(198, 196, 196);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.quote-text {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+.author-text {
+  font-size: 20px;
+  color: #555;
+}
+
